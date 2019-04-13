@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c95ce4eb42c767d8a467",
+    "revision": "1387d60dc944b6886cb0",
     "url": "/crouching_tigers/static/css/main.fdb4f9b1.chunk.css"
   },
   {
-    "revision": "c95ce4eb42c767d8a467",
-    "url": "/crouching_tigers/static/js/main.c95ce4eb.chunk.js"
+    "revision": "1387d60dc944b6886cb0",
+    "url": "/crouching_tigers/static/js/main.1387d60d.chunk.js"
   },
   {
     "revision": "0a7f6d120809ff1bf068",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/crouching_tigers/static/media/sidebar-2.310509c9.jpg"
   },
   {
-    "revision": "143864f748623c3e31b380753847080f",
+    "revision": "58ac409bd56d593e8eabede48a165981",
     "url": "/crouching_tigers/index.html"
   }
 ];

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/crouching_tigers/precache-manifest.5e836517a826299c2847fbd0d78220bb.js"
+  "/crouching_tigers/precache-manifest.e6ba120bf20f921fca56500da95925cc.js"
 );
 
 workbox.clientsClaim();
